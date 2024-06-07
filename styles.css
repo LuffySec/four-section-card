@@ -165,7 +165,7 @@ main {
 
 @media only screen and (min-width: 768px) {
     .section {
-        width: 700px;
+        width: 600px;
         display: grid;
         grid-template-columns: repeat(3, 1fr);
         grid-template-rows: 140px 110px 30px 110px 140px;
