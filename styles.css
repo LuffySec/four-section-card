@@ -196,9 +196,6 @@ main {
     .title p {
         width: 40rem;
     }
-    body {
-        overflow: hidden;
-    }
     main {
         margin-top: -80px;
     }
